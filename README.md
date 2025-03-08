@@ -1,5 +1,5 @@
 # Sandaru Hansaka
-
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=MBA+%26+Graphic+desiner;Video+Editer;)
 ## 🎨 Graphic Designer | 🎬 Video Editor
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hansaka2005-dash&label=Profile%20Views&color=blue&style=flat-square)
