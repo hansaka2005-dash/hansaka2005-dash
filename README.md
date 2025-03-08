@@ -15,7 +15,7 @@ const sandaruHansaka = {
     role: "Graphic Designer & Video Editor",
     location: "Sri Lanka",
     technologies: ["Adobe Photoshop", "Adobe Illustrator", "Adobe Premiere Pro", "After Effects"],
-    learning: "Advanced Motion Graphics & UI/UX Design",
+    learning: "Advanced Motion Graphics",
     hobbies: ["Creative Designing", "Video Production", "Photography"],
     motto: "Designing is not just a skill, it's an art. 🎨"
 };
@@ -28,16 +28,10 @@ const sandaruHansaka = {
 ### Graphic Design Tools
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Video Editing Tools
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF9A00?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-
-### UI/UX & Motion Graphics
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
@@ -51,8 +45,9 @@ const sandaruHansaka = {
 ## 🔗 Connect & Collaborate
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hansaka2005-dash)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hansaka2005-dash)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsapplink)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourfacebookprofile)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@yourtiktokusername)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hansaka2005-dash)
 
-💡 *Open to collaborating on Creative Design, Video Editing, and UI/UX projects!* 🎨🎬
+💡 *Open to collaborating on Creative Design and Video Editing projects!* 🎨🎬
